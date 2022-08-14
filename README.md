@@ -1,5 +1,3 @@
-![Screenshot_2022-08-14-15-04-39-72_f69139cffc4d135a71392e13634f144a](https://user-images.githubusercontent.com/94946818/184528191-be58a6ac-101c-4201-aabf-118e3ef13558.jpg)
-![Screenshot_2022-08-14-13-53-51-16_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/94946818/184528197-9d647697-f9ec-4194-8b83-7bda35dbfc91.jpg)
 # **Install On Termux**
 ```
 $ pkg install python
@@ -12,8 +10,10 @@ $ python setup.py
 - Script ini 100% gratis, dan perlu diketahui bahwa script ini saya recode dari orang vietnam. Jika anda ingin full source code tanpa enkripsi silahkan chat WhatsApp saya <a href="https://wa.me/6289694295787?text=Halo+Bang+Arya+Minta+Esceh+Dong">Klik Disini!</a>
 
 # **Example**
-- 
 
+<img src= "https://user-images.githubusercontent.com/94946818/184528191-be58a6ac-101c-4201-aabf-118e3ef13558.jpg" width=1000 ><p>
+
+<img src= "https://user-images.githubusercontent.com/94946818/184528197-9d647697-f9ec-4194-8b83-7bda35dbfc91.jpg" width=1000 ><p>
 
 # **Contact Me🔥☕**
 <p align="left">
