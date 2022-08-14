@@ -1,3 +1,5 @@
+![Screenshot_2022-08-14-15-04-39-72_f69139cffc4d135a71392e13634f144a](https://user-images.githubusercontent.com/94946818/184528191-be58a6ac-101c-4201-aabf-118e3ef13558.jpg)
+![Screenshot_2022-08-14-13-53-51-16_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/94946818/184528197-9d647697-f9ec-4194-8b83-7bda35dbfc91.jpg)
 # **Install On Termux**
 ```
 $ pkg install python
