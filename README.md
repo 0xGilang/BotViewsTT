@@ -9,6 +9,7 @@ $ python run.py
 ```
 # **Catatan:**
 - Script ini 100% gratis, dan perlu diketahui bahwa script ini saya recode dari orang vietnam. Jika anda ingin full source code tanpa enkripsi silahkan chat WhatsApp saya <a href="https://wa.me/6289694295787?text=Halo+Bang+Arya+Minta+Esceh+Dong">Klik Disini!</a>
+- Jika kalian bingung menggunakan script ini, bisa langsung cek youtube saya
 
 # **Example**
 
